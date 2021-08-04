@@ -1,0 +1,59 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.img{
+    max-block-size: 50px;
+}
+
+.Les_3_photos{
+    max-width: 100%;
+}
+
+.box-pictures-size{
+    max-width: 1280px;
+}
+
+/* FORMULAIRE DE FIGMA */
+
+.formulaire {
+    margin: 0px auto;
+    padding-top: 144px;
+    padding-bottom: 80px;
+    width: 422px;
+    max-width: 100%;
+}
+
+.formulaire{
+    text-decoration: none;
+    cursor: inherit;
+}
+
+.FONT_1{
+    background-color: #699bf7;
+    block-size: 600px;
+}
+
+.text-seule{
+    background-color: #699bf7;
+}
+
+.rebord{
+    margin-left: 0px;
+}
+
+.figma-photo-début{
+    max-block-size: 80%;
+    align-self: center;
+    margin-top: 30px;
+    max-width: 400px;
+}
+
+.ecran_custom_figma{
+    max-width: 1440px;
+    max-height: 720px;
+}
+
+.google:hover{
+    transform: translateY(-2);
+}
